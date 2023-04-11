@@ -1,0 +1,3 @@
+﻿  company.cpp
+C:\code\OOP\21127284-w8\21127284-w8\company.cpp(49,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  21127284-w8.vcxproj -> C:\code\OOP\21127284-w8\x64\Debug\21127284-w8.exe

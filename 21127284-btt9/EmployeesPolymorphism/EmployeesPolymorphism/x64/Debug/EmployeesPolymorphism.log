@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\code\OOP\EmployeesPolymorphism\EmployeesPolymorphism\Utils.h(14,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\code\OOP\EmployeesPolymorphism\EmployeesPolymorphism\Utils.h(18,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\code\OOP\EmployeesPolymorphism\EmployeesPolymorphism\main.cpp(32,52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  EmployeesPolymorphism.vcxproj -> C:\code\OOP\EmployeesPolymorphism\x64\Debug\EmployeesPolymorphism.exe

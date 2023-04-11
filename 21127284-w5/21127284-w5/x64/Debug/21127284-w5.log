@@ -1,0 +1,6 @@
+﻿  ABCFarm.cpp
+C:\code\OOP\21127284-w5\21127284-w5\ABCFarm.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
+C:\code\OOP\21127284-w5\21127284-w5\ABCFarm.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  21127284-w5.vcxproj -> C:\code\OOP\21127284-w5\x64\Debug\21127284-w5.exe

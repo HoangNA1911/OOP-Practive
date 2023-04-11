@@ -1,0 +1,4 @@
+﻿  test.cpp
+C:\code\OOP\21127284-w6\21127284-w6\test.cpp(89,18): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\code\OOP\21127284-w6\21127284-w6\test.cpp(90,21): warning C4305: 'argument': truncation from 'double' to 'float'
+  21127284-w6.vcxproj -> C:\code\OOP\21127284-w6\x64\Debug\21127284-w6.exe

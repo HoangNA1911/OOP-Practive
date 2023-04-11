@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\code\OOP\RenamingRulesPolymorphism\RenamingRulesPolymorphism\ParserFactory.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\code\OOP\RenamingRulesPolymorphism\RenamingRulesPolymorphism\Utils.h(16,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\code\OOP\RenamingRulesPolymorphism\RenamingRulesPolymorphism\Utils.h(20,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\code\OOP\RenamingRulesPolymorphism\RenamingRulesPolymorphism\RemoveSpecialCharsParser.h(8,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\code\OOP\RenamingRulesPolymorphism\RenamingRulesPolymorphism\main.cpp(32,52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  RenamingRulesPolymorphism.vcxproj -> C:\code\OOP\RenamingRulesPolymorphism\x64\Debug\RenamingRulesPolymorphism.exe

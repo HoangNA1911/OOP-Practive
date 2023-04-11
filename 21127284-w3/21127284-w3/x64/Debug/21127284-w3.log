@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\code\OOP\21127284-w3\21127284-w3\main.cpp(11,17): error C2535: 'int A::foo(int)': member function already defined or declared
+C:\code\OOP\21127284-w3\21127284-w3\main.cpp(10): message : see declaration of 'A::foo'
